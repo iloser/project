@@ -1,0 +1,17 @@
+J:\project\src\Common\bin\Debug\netstandard2.0\Common.deps.json
+J:\project\src\Common\bin\Debug\netstandard2.0\Common.dll
+J:\project\src\Common\bin\Debug\netstandard2.0\Common.pdb
+J:\project\src\Common\obj\Debug\netstandard2.0\Common.csprojResolveAssemblyReference.cache
+J:\project\src\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+J:\project\src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+J:\project\src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+J:\project\src\Common\obj\Debug\netstandard2.0\Common.dll
+J:\project\src\Common\obj\Debug\netstandard2.0\Common.pdb
+J:\project\project\src\Common\bin\Debug\netstandard2.0\Common.deps.json
+J:\project\project\src\Common\bin\Debug\netstandard2.0\Common.dll
+J:\project\project\src\Common\bin\Debug\netstandard2.0\Common.pdb
+J:\project\project\src\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+J:\project\project\src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+J:\project\project\src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+J:\project\project\src\Common\obj\Debug\netstandard2.0\Common.dll
+J:\project\project\src\Common\obj\Debug\netstandard2.0\Common.pdb

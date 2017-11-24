@@ -1,0 +1,15 @@
+J:\project\project\src\Module\Admin\bin\Debug\netstandard2.0\Admin.deps.json
+J:\project\project\src\Module\Admin\bin\Debug\netstandard2.0\Admin.dll
+J:\project\project\src\Module\Admin\bin\Debug\netstandard2.0\Admin.pdb
+J:\project\project\src\Module\Admin\bin\Debug\netstandard2.0\Common.dll
+J:\project\project\src\Module\Admin\bin\Debug\netstandard2.0\Infrastructure.dll
+J:\project\project\src\Module\Admin\bin\Debug\netstandard2.0\user.db.dll
+J:\project\project\src\Module\Admin\bin\Debug\netstandard2.0\Infrastructure.pdb
+J:\project\project\src\Module\Admin\bin\Debug\netstandard2.0\Common.pdb
+J:\project\project\src\Module\Admin\bin\Debug\netstandard2.0\user.db.pdb
+J:\project\project\src\Module\Admin\obj\Debug\netstandard2.0\Admin.csprojResolveAssemblyReference.cache
+J:\project\project\src\Module\Admin\obj\Debug\netstandard2.0\Admin.csproj.CoreCompileInputs.cache
+J:\project\project\src\Module\Admin\obj\Debug\netstandard2.0\Admin.AssemblyInfoInputs.cache
+J:\project\project\src\Module\Admin\obj\Debug\netstandard2.0\Admin.AssemblyInfo.cs
+J:\project\project\src\Module\Admin\obj\Debug\netstandard2.0\Admin.dll
+J:\project\project\src\Module\Admin\obj\Debug\netstandard2.0\Admin.pdb
