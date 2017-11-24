@@ -73,5 +73,12 @@ namespace user.Module.Admin.Controllers {
 			if (affrows > 0) return APIReturn.成功.SetMessage($"删除成功，影响行数：{affrows}");
 			return APIReturn.失败;
 		}
-	}
+
+        [HttpGet("test")]
+        public APIReturn Get()
+        {
+            var users = Person.Select.ColName.ColId.InnerJoin<Person>("person", "name,id", "a.id=person.id").ToList();
+            return APIReturn.成功.SetData("users",users) ;
+        }
+    }
 }
